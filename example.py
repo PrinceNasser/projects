@@ -323,8 +323,5 @@ window.bind("<KeyPress>", onKeyDown)
 # connect keyup event to function
 window.bind("<KeyRelease>", onKeyUp)
 
-# exit
-
-
 # method to keep the window alive and running.
 window.mainloop() 
