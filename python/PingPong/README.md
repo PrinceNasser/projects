@@ -9,6 +9,7 @@ A modern implementation of the classic Ping Pong game using Python and Tkinter, 
 - Real-time score and set tracking
 - Dynamic ball physics
 - Date and time display
+## To Do
 - [ ] Customizable colors
 
 ## Credits
